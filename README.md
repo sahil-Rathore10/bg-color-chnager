@@ -79,3 +79,5 @@ Add gradient background options
 👨‍💻 Author
 
 Sahil Rathore
+
+Linkedin https://www.linkedin.com/in/sahil-rathore-5a555a203/
